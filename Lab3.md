@@ -20,6 +20,6 @@ GitHub.com Domain Summary
 | **Name Servers**            | - dns1.p08.nsone.net<br>- dns2.p08.nsone.net<br>- dns3.p08.nsone.net<br>- dns4.p08.nsone.net<br>- ns-1283.awsdns-32.org<br>- ns-1707.awsdns-21.co.uk<br>- ns-421.awsdns-52.com<br>- ns-520.awsdns-01.net |
 | **DNSSEC**                  | unsigned                                                                                        |
 | **IP Address (A record)**   | 140.82.121.4
-<img width="913" height="864" alt="Github2" src="https://github.com/user-attachments/assets/5b58ace3-f55f-4967-8265-0d80b54beb64" />
-<img width="677" height="809" alt="Github 3" src="https://github.com/user-attachments/assets/12f63d56-08e9-4707-afc8-f80933c55c46" />
-<img width="1236" height="850" alt="Github 1" src="https://github.com/user-attachments/assets/e5b42724-cfec-4706-9fe3-8eef0d1250af" />
+<img width="913" height="864" alt="Github2" src="https://github.com/user-attachments/assets/43cbbd6b-70cd-4c59-a3b6-860210c97e1d" />
+<img width="677" height="809" alt="Github 3" src="https://github.com/user-attachments/assets/c85e4a65-9e70-4d7d-bed4-9c9b76a78bc0" />
+<img width="1236" height="850" alt="Github 1" src="https://github.com/user-attachments/assets/68b649ac-9a0b-47cb-ab61-e0abb88fce40" />
