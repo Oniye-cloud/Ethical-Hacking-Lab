@@ -1,15 +1,12 @@
 1. KWASU PORTAL: ETHICAL HACKING
-
 Story: KWASU (Kwara State University, Malete) gave a cyber security team permission to test their student portal for security problems. The team checked the site, found a bug, and reported it to the school.
 
 ✅ Ethical
-
 Why?The team had permission from KWASU to test the portal. They helped the school fix the issue without causing any harm.
 
 
 
 2. BANK ATTACK: ILLEGAL HACKING
-
 Story: A hacker broke into a bank’s system and stole customer account details. He had no permission and later tried to sell the data online.
 
 ❌ Illegal
@@ -18,7 +15,6 @@ Why? The hacker did not have permission and stole private data. This is a seriou
 
 
 3. HOSPITAL BUG FOUND BY A STUDENT
-
 Story: A student found a problem in a hospital website that could leak patient data. Instead of telling the hospital quietly, the student posted it on Twitter.
 
 ⚠️ Unethical
