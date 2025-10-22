@@ -24,5 +24,6 @@ Port 443 (HTTPS): Supports encrypted traffic (SSL/TLS), also handled by Netlify.
 
 
 
-<img width="824" height="871" alt="Lab4 b" src="https://github.com/user-attachments/assets/5540b600-ecc9-4399-a3bc-aabcfb40dc7c" />
-<img width="1408" height="864" alt="Lab4 a" src="https://github.com/user-attachments/assets/1b40584f-fefe-48bf-81d0-81f240e2aab4" />
+<img width="983" height="822" alt="Lab4 c" src="https://github.com/user-attachments/assets/c5223431-3d46-4d0f-9910-7cdfc02eba12" />
+<img width="1408" height="864" alt="Lab4 a" src="https://github.com/user-attachments/assets/bd2b88d0-4b55-449a-9cef-4a6bb970dee9" />
+
