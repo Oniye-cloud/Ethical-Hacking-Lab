@@ -11,7 +11,9 @@
 
 
 
-Summary
+Summary:
 
-Passive reconnaissance is best used at the beginning of an assessment to quietly gather public information about a target without alerting them.
-Active reconnaissance is used after defining scope and getting permission, to scan and test the target’s live systems for open ports and services. It provides deeper technical details but carries a higher risk of detection.
+
+Passive reconnaissance - is best used at the beginning of an assessment to quietly gather public information about a target without alerting them.
+
+Active reconnaissance - is used after defining scope and getting permission, to scan and test the target’s live systems for open ports and services. It provides deeper technical details but carries a higher risk of detection.
