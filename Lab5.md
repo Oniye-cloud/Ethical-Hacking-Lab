@@ -11,7 +11,10 @@
 
 
 
+
+
 Summary:
+
 
 
 Passive reconnaissance - is best used at the beginning of an assessment to quietly gather public information about a target without alerting them.
